@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 # set up load term
 loan: float = 100000.00
 rate: float = 10.0 / 100
